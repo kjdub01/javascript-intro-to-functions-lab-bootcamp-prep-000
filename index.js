@@ -36,5 +36,7 @@ function sayHiToGrandma(uppercase) {
 }
 
 function sayHiToGrandma(string) {
- return `I love you, too`
+ console.log(`string`(lowercase(`I can't hear you!`))
+ console.log(string(uppercase(`YES INDEED!`)))
+ return `I love you, too.`
  }
