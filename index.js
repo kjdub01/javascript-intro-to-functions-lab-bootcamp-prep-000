@@ -27,5 +27,5 @@ function sayHiToGrandma(string) {
  }
  
  else{
-   var mixedCase 
+   var mixedCase = 
  }
